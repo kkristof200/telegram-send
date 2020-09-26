@@ -20,6 +20,6 @@
     },
     "author": "Kristóf-Attila Kovács",
     "name": "telegram-send",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "description": "Lightweight package ofrr sending message via telegram"
 }
